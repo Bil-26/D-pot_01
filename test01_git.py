@@ -8,4 +8,7 @@ tab=[10,20,30,40,50]
 for x in range(4):
     print(tab[x])
 
+print("fin du programme")
+
+
     
