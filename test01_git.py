@@ -1,5 +1,5 @@
 print('Hello')
-for i in range(1000):
+for i in range(50):
     print(f"la valeur de {i} est {i}")
 
     print(f"la valeur de i est {i}")
