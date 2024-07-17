@@ -10,5 +10,8 @@ for x in range(4):
 
 print("fin du programme")
 
+for i in range(0,101,2):
+    print(i)
+
 
     
